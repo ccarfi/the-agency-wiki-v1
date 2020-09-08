@@ -1,6 +1,6 @@
 # the-agency-wiki-v1
 
-The Agency Wiki (https://needs.a.url) are a collection of resources for individuals, communities, and companies who want to learn how to *GOAL*.
+The Agency Wiki (https://needs.a.url) contains a collection of resources for individuals, communities, and companies who want to learn how to *GOAL*.
 
 ## Background
 Open Source Guides were created and are curated by Duda, along with input from outside community reviewers, but they are not exclusive to Duda products. One reason we started this project is because we felt that there weren't enough resources for GOAL.
