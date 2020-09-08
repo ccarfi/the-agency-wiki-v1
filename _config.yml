@@ -3,6 +3,6 @@ remote_theme: pmarsceill/just-the-docs
 # Aux links for the upper right navigation
 aux_links:
   "About":
-    - "https://ccarfi.github.io/the-agency-wiki-v1/README.html"
+    - "https://ccarfi.github.io/the-agency-wiki-v1/"
   "Contribute":
     - "https://ccarfi.github.io/the-agency-wiki-v1/CONTRIBUTING.html"
