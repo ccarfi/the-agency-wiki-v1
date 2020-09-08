@@ -5,7 +5,7 @@
 The Agency Wiki (https://needs.a.url) contains a collection of resources for individuals, communities, and companies who want to learn how to *GOAL*.
 
 ## Background
-Open Source Guides were created and are curated by Duda, along with input from outside community reviewers, but they are not exclusive to Duda products. One reason we started this project is because we felt that there weren't enough resources for GOAL.
+The Agency Wiki was created by and is curated by Duda, along with input from outside community reviewers, but the resources here are not exclusive to Duda products. One reason we started this project is because we felt that there weren't enough resources for the agency community to grow their businesses.
 
 Our goal is to aggregate community best practices. Therefore, we try to use examples and quotations from others to illustrate our points.
 
@@ -21,7 +21,7 @@ Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.
 
 The initial release of these guides were authored by ccarfi apitre salemar
 
-The Agency Wiki is derived from [opensource.guide](https://opensource.guide)
+The Agency Wiki is derived from [opensource.guide](https://opensource.guide) under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) 
 
 ## Disclaimer
 While we've got advice about running an agency, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before diving in.
