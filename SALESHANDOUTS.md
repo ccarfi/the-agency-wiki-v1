@@ -1,6 +1,7 @@
 ---
 layout: default
 has_children: yes
+nav_order: 2
 ---
 
 # Sales Handouts
