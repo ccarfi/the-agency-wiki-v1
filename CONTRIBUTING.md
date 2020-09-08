@@ -1,6 +1,5 @@
 ---
 layout: default
-nav_order: 98
 ---
 
 # Contributing to The Agency Wiki
