@@ -1,6 +1,5 @@
 ---
 layout: default
-has_children: yes
 ---
 
 # Contributing to The Agency Wiki
