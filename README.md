@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # About The Agency Wiki
 
 <img src="https://lirp-cdn.multiscreensite.com/cc407b53/dms3rep/multi/opt/ecommerce-trends-holiday-2020-cover-880w.png">
