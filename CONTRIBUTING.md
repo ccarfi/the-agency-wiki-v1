@@ -1,5 +1,6 @@
 ---
 layout: default
+nav_exclude: true
 ---
 
 # Contributing to The Agency Wiki
