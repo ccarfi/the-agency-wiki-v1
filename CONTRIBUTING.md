@@ -15,7 +15,6 @@ We've put together the following guidelines to contributing to this community re
 0. [Ground rules & expectations](#ground-rules--expectations)
 0. [How to contribute](#how-to-contribute)
 0. [Style guide](#style-guide)
-0. [Setting up your environment](#setting-up-your-environment)
 0. [Community](#community)
 
 ## Types of contributions we're looking for
