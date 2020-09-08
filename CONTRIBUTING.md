@@ -39,7 +39,7 @@ Before we get started, here are a few things we expect from you (and that you sh
 
 ## How to contribute
 
-If you'd like to contribute, start by searching through the [issues](https://github.com/github/opensource.guide/issues) and [pull requests](https://github.com/github/opensource.guide/pulls) to see whether someone else has raised a similar idea or question.
+If you'd like to contribute, start by searching through the [issues](https://github.com/ccarfi/the-agency-wiki-v1/issues) and [pull requests](https://github.com/ccarfi/the-agency-wiki-v1/pulls) to see whether someone else has raised a similar idea or question.
 
 If you don't see your idea listed, and you think it fits into the goals of this project, do one of the following:
 * **If your contribution is minor,** such as a typo fix, open a pull request.
