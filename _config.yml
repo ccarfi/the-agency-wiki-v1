@@ -4,7 +4,9 @@ color_scheme: dark
 
 # Aux links for the upper right navigation
 aux_links:
+  "Home":
+    - "http://www.theagencywiki.org/"
   "About":
-    - "https://ccarfi.github.io/the-agency-wiki-v1/"
+    - "http://make.theagencywiki.org/"
   "Contribute":
-    - "https://ccarfi.github.io/the-agency-wiki-v1/CONTRIBUTING.html"
+    - "https://make.theagencywiki.org/CONTRIBUTING.html"
