@@ -2,7 +2,7 @@
 
 <img src="https://lirp-cdn.multiscreensite.com/cc407b53/dms3rep/multi/opt/ecommerce-trends-holiday-2020-cover-880w.png">
 
-The Agency Wiki (https://needs.a.url) contains a collection of resources for individuals, communities, and companies who want to learn how to *GOAL*.
+The Agency Wiki (https://theagencywiki.org) contains a collection of resources for individuals, communities, and companies who want to learn how to *GOAL*.
 
 ## Background
 The Agency Wiki was created by and is curated by Duda, along with input from outside community reviewers, but the resources here are not exclusive to Duda products. One reason we started this project is because we felt that there weren't enough resources for the agency community to grow their businesses.
