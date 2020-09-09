@@ -1,5 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 
+color_scheme: dark
+
 # Aux links for the upper right navigation
 aux_links:
   "About":
