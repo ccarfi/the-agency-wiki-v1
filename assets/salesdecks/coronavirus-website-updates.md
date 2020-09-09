@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Coronavirus Website Updates
-parent: Sales Handouts
+parent: Sales Decks
 ---
 
 # Coronavirus Website Updates
