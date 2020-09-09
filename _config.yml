@@ -5,8 +5,8 @@ color_scheme: dark
 # Aux links for the upper right navigation
 aux_links:
   "Home":
-    - "http://www.theagencywiki.org/"
+    - "https://www.theagencywiki.org/"
   "About":
-    - "http://make.theagencywiki.org/"
+    - "https://make.theagencywiki.org/"
   "Contribute":
-    - "http://make.theagencywiki.org/CONTRIBUTING.html"
+    - "https://make.theagencywiki.org/CONTRIBUTING.html"
