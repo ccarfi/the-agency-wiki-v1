@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Holiday 2020 eCommerce Trends
-parent: Sales Handouts
+parent: Sales Decks
 ---
 
 # Holiday 2020 eCommerce Trends
