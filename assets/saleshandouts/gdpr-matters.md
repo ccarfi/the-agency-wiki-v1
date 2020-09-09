@@ -18,6 +18,6 @@ These resources can help your small business customers understand:
 
 
 This collection contains resources in three formats:
-* [PDF]( )
-* [PPT]( )
-* [PSD]( )
+* [PDF](https://make.theagencywiki.org/assets/files/GDPR_EU.pdf)
+* [PPT](https://make.theagencywiki.org/assets/files/GDPR_EU.pptx)
+* [PSD](https://make.theagencywiki.org/assets/files/GDPR_EU.psd)
