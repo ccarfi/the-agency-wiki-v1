@@ -6,7 +6,7 @@ parent: Sales Handouts
 
 # Selling Site Personalization
 
-Websites convert better when they create an experience that’s tailored for every site visitor. Adding content rules or triggers to a website can increase website conversion by 94%, according to RedEye.
+Websites convert better when they create an experience that√ïs tailored for every site visitor. Adding content rules or triggers to a website can increase website conversion by 94%, according to RedEye.
 
 Triggers can be set to display different content to site visitors based on:
 
