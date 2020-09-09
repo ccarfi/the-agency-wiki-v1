@@ -1,5 +1,5 @@
 ---
-layout: article-alt
+layout: default
 title: Legal Disclaimer and Notices
 lang: en
 untranslated: true
