@@ -17,4 +17,4 @@ This deck is designed for use on your agency's website or as part of a campaign 
 
 This white label asset is available in the following format:
 
-* [PPT](https://make.theagencywiki.org/assets/files/holiday-commerce-trends-2020.pptx)
+* [PPT](https://make.theagencywiki.org/assets/files/holiday-ecommerce-trends-2020.pptx)
