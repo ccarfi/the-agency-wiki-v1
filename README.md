@@ -23,7 +23,7 @@ Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.
 
 The initial release of these guides were authored by [ccarfi](https://github.com/ccarfi) [stephenalemar](https://github.com/stephenalemar) [aaronpitre](https://github.com/aaronpitre).
 
-Content based on [opensource.guide](https://opensource.guide) under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) 
+Content based on [opensource.guide](https://opensource.guide) under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Disclaimer
 While we've got advice about running an agency, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before diving in.
