@@ -13,3 +13,7 @@ Finding the right design assets, either during the proposal stage or for a proje
 * [Pexels](https://pexels.com)
 * [TONL](https://tonl.co/)
 * [Unsplash](https://unsplash.com)
+
+## Icon sites
+
+* [The Noun Project](https://thenounproject.com)
