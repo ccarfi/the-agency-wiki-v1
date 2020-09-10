@@ -1,6 +1,6 @@
 ---
 layout: default
-has_children: yes
+has_children: false
 nav_order: 6
 ---
 
