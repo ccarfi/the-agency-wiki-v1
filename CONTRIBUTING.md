@@ -50,6 +50,6 @@ If you're writing content, see the [style guide](./STYLEGUIDE.md) to help your p
 
 ## Community
 
-Discussions about The Agency Wiki take place on this repository's [Issues](https://github.com/ccarfi/the-agency-wiki-v1/issues) and [Pull Requests](https://github.com/ccarfi/the-agency-wiki-v1/pulls) sections. Anybody is welcome to join these conversations. There is also a [mailing list](URL TBD) for regular updates.
+Discussions about The Agency Wiki take place on this repository's [Issues](https://github.com/ccarfi/the-agency-wiki-v1/issues) and [Pull Requests](https://github.com/ccarfi/the-agency-wiki-v1/pulls) sections. Anybody is welcome to join these conversations. There is also a [mailing list](https://theagencywiki.org#ContactUs) for regular updates.
 
 Wherever possible, do not take these conversations to private channels, including contacting the maintainers directly. Keeping communication public means everybody can benefit and learn from the conversation.
