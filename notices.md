@@ -22,7 +22,7 @@ Content is copyright © The Agency Wiki authors, released under [CC-BY-4.0](http
 
 Code, including source files and code samples if any in the content, is released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-This means you can use the code and content in this repository except for Duda trademarks in your own projects. When using the Duda logos, be sure to follow the [Duda logo guidelines](https://duda.co/logos).
+This means you can use the code and content in this repository except for Duda trademarks in your own projects. When using the Duda logos, be sure to follow the [Duda logo guidelines](https://duda.co).
 
 When you contribute to this repository you are doing so under the above licenses.
 
