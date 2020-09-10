@@ -19,7 +19,7 @@ Creating these assets beforehand and working them into your design process saves
 
 ### TAW: Once you have your workflow a little more retooled around building at scale, what’s next on the list?
 
-EK: The next thing I’ve seen our most successful partners do is specialize in a few industry verticals. You may have had some success walking up and down main street and collecting customers of all different stripes, but after you’ve tooled up your site building flows, it makes a lot of sense to focus on a few customer segments to build for. For instance if you’ve created a few plumber websites in the past and have some experience with that industry, it’s probably a good target for you going forward. All you need to do is build a few of your own unique plumber site templates and start marketing to this vertical. This allows you to leverage any industry knowledge you’ve accumulated and streamlines your workflow. Both are key to ramping up customer acquisition. 
+EK: The next thing I’ve seen our most successful partners do is specialize in a few industry verticals. You may have had some success walking up and down Main Street and collecting customers of all different stripes, but after you’ve tooled up your site building flows, it makes a lot of sense to focus on a few customer segments to build for. For instance if you’ve created a few plumber websites in the past and have some experience with that industry, it’s probably a good target for you going forward. All you need to do is build a few of your own unique plumber site templates and start marketing to this vertical. This allows you to leverage any industry knowledge you’ve accumulated and streamlines your workflow. Both are key to ramping up customer acquisition. 
 
 ### TAW: Once you’ve focused on a few key verticals, I imagine you’d have to expand your geographic footprint. Is that right?
 
@@ -29,7 +29,7 @@ Thinking in this way can make it feel like a big undertaking, but remember you a
 
 ### TAW: So is this a time for agencies with around 50 websites to re-think their entire model of doing business? For example, should you consider adding a do-it-yourself website building flow to your service?
 
-EK: I would advise saving something like that for when you hit around 150-500 websites. Setting up an entirely new workflow can entail a fair amount of development work with Duda’s API and you’d need to figure out support. At around 50 websites, a do-it-for-me service is still your sweet spot. 
+EK: I would advise saving something like that for when you hit around 150-500 websites. Setting up an entirely new workflow can entail a fair amount of development work and you’d need to figure out support. At around 50 websites, a do-it-for-me service is still your sweet spot. 
 
 However, you may want to think about using roles and permissions to enable your customers to make minor site changes themselves and take some of the management responsibility off your team. I’ve seen a lot of partners free up time by letting customers manage eCommerce and blogs while restricting editing access to the rest of the site. 
 
@@ -41,7 +41,7 @@ Exactly what you do to accomplish this task can take a variety of forms. I’ve 
 
 Another tactic I’ve seen work well is to offer discounted or free design refreshes. And of course, if you’ve started to work with more pre-built site sections and templates, the time it takes to finish those refreshes is a fraction of what it would be if you continue offering totally bespoke web design services. This is a great way to stop customers from churning out. 
 
-Also, Site Comments is an absolute must-use feature. It allows you to communicate with your customers directly on top of a website while it’s being designed inside the Duda platform. This feature prompts your customers to really engage in the design process and reduces website build times by about a third. 
+Also, Site Comments is an absolute must-use feature. It allows you to communicate with your customers directly on top of a website while it’s being designed inside the platform. This feature prompts your customers to really engage in the design process and reduces website build times by about a third. 
 
 ### TAW: Any other strategic advice you’d give to an agency with 50 sites looking to enter a growth phase?
 
