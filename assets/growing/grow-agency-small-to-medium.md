@@ -17,7 +17,7 @@ So the first thing you need to do is optimize your site building flows. Start th
 
 Creating these assets beforehand and working them into your design process saves hours of time. If you want to make it from 50 websites to 150, you need to think of your work a little more as a process and a little less as art. That’s not to say beautiful designs aren’t important; they are. But not everything you create needs to be 100% custom for every customer.
 
-## TAW: Once you have your workflow a little more retooled around building at scale, what’s next on the list?
+### TAW: Once you have your workflow a little more retooled around building at scale, what’s next on the list?
 
 EK: The next thing I’ve seen our most successful partners do is specialize in a few industry verticals. You may have had some success walking up and down main street and collecting customers of all different stripes, but after you’ve tooled up your site building flows, it makes a lot of sense to focus on a few customer segments to build for. For instance if you’ve created a few plumber websites in the past and have some experience with that industry, it’s probably a good target for you going forward. All you need to do is build a few of your own unique plumber site templates and start marketing to this vertical. This allows you to leverage any industry knowledge you’ve accumulated and streamlines your workflow. Both are key to ramping up customer acquisition. 
 
