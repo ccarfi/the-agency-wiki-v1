@@ -21,7 +21,7 @@ Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.
 
 ## Acknowledgments
 
-The initial release of these guides were authored by [ccarfi](https://github.com/ccarfi) [stephenalemar](https://github.com/stephenalemar) [aaronptire](https://github.com/aaronpitre).
+The initial release of these guides were authored by [ccarfi](https://github.com/ccarfi) [stephenalemar](https://github.com/stephenalemar) [aaronpitre](https://github.com/aaronpitre).
 
 The Agency Wiki is derived from [opensource.guide](https://opensource.guide) under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) 
 
