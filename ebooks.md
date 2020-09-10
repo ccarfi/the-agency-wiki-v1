@@ -6,4 +6,4 @@ nav_order: 4
 
 # eBooks
 
-These resources can be customized and used as part of your sales process.
+The Agency Wiki currently doesn't contain any white label eBooks. Why don't you [contribute](https://make.theagencywiki.org/CONTRIBUTING.md) one?
