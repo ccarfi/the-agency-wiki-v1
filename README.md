@@ -7,7 +7,7 @@ The Agency Wiki ([theagencywiki.org](http://theagencywiki.org)) is an initiative
 The Agency Wiki enables agency owners and designers around the globe to share white label assets and related digital agency resources. Anyone can contribute and content is edited and curated by community members. 
 
 ## Background
-The Agency Wiki was created by and is curated by Duda, along with input from outside community reviewers, but the resources here are not exclusive to Duda products. One reason we started this project is because we felt that there weren't enough resources for the agency community to grow their businesses.
+The Agency Wiki was created by and is curated by [Duda](https://www.duda.co), along with input from outside community reviewers, but the resources here are not exclusive to Duda products. One reason we started this project is because we felt that there weren't enough resources for the agency community to grow their businesses.
 
 Our goal is to aggregate community best practices. Therefore, we try to use examples and quotations from others to illustrate our points.
 
