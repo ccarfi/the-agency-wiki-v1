@@ -6,7 +6,7 @@ parent: Growing Your Agency
 
 # How to Grow a Small Agency
 
-One of the most common questions we've heard from agency owners is "How do I grow my digital agency?" Here is an interview with [Erik Kosnar](https://www.linkedin.com/in/erikkosnar/), a long-time agency, community-building, and web development leader, who shares some of his advice. 
+One of the most common questions we've heard from agency owners is "How do I grow my digital agency?" Here is an interview with [Erik Kosnar](https://www.linkedin.com/in/erikkosnar/), a long-time relationship-builder, community leader, podcaster, and web development pro, who shares some of his advice. 
 
 
 ### TAW: When a digital agency with around 50 websites decides it wants to strategically enter a growth phase and ramp up their customer acquisition, what’s the first step they should take?
